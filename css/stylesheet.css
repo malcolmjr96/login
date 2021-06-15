@@ -1,0 +1,6 @@
+input {
+    display: block; 
+}
+.loginRegister > input {
+    display: inline-block;
+}
