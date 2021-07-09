@@ -1,6 +1,6 @@
 input {
     display: block; 
 }
-.loginRegister > input {
+.login-register > input {
     display: inline-block;
 }
